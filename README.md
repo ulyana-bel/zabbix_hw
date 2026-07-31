@@ -8,15 +8,15 @@
 #
 Скрины выполнения:
 
-[Дашборд внешнего агента](\img\host-dashboard.png)
+[Дашборд внешнего агента](img/host-dashboard.png)
 
-[Метрики обоих агентов](\img\hosts-latest-data.png)
+[Метрики обоих агентов](img/hosts-latest-data.png)
 
-[Хосты подкючены и работают](\img\hosts-working.png)
+[Хосты подкючены и работают](img/hosts-working.png)
 
-[Статус в консоли заббикс-агента](\img\status-zabbix-agent.png)
+[Статус в консоли заббикс-агента](img/status-zabbix-agent.png)
 
-[Статус в консоли заббикс-сервера](\img\status-zabbix-server.png)
+[Статус в консоли заббикс-сервера](img/status-zabbix-server.png)
 #
 Скачивание Заббикса отсюда:
 	  https://www.zabbix.com/ru/download
