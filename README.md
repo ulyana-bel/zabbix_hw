@@ -58,3 +58,5 @@ CREATE DATABASE:
  рестартовать сервис агента:
  
 	  systemctl restart zabbix-agent
+
+[Учебный репозиторий по теме Заббикса](https://github.com/Belfi-Gor/adminguide.git)
